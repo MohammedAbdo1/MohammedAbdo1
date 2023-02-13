@@ -6,11 +6,11 @@
 Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 
-<h3 align="center">I'm passionate Full Stack web developer having an experience of web applications with NodeJS, Laravel, React.js, Next.js and Mobile Application developer with React Native From Yemen &#127470;&#127475</h3>
+<h3 align="center">I'm passionate Full Stack web developer having an experience of web applications with NodeJS, Laravel, React.js, Next.js  From Yemen &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/metawees1" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+<p align="left"> <a href="https://twitter.com" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -18,13 +18,13 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
 
 - 🔭 I’m currently working in <a href="https://www.facebook.com/profile.php?id=100086518200031">Intelliteclab</a>
 
-- 🌱 I’m currently Working on Web Application (NextJS & ReactJS) and Mobile App(React-Native) 
+- 🌱 I’m currently Working on Web Application (NextJS & ReactJS) 
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Reactjs
 
-- 📫 How to reach me **alhmydymhmdjmal91@gmail.com**
+- 📫 How to reach me **mohammed775163@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1VTp-IMZ58AS3ZPBo3sH5fr6D4crz1LGj/view?usp=sharing" target="blank">Resume</a>
 <br/>
@@ -36,19 +36,15 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/metawees/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mohammed-abdo-al-shmeery-7861a0260">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/MhdGmal1998/MhdGmal1998/">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/MohammedAbdo1">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/17182723/mohammed-gamal-al-homaidi">
+	
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/mhdgmal1998">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/q_4dd/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/metawees1">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1VTp-IMZ58AS3ZPBo3sH5fr6D4crz1LGj/view">
+<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1jlGbVAyvOyU4WRr9N_RSYt6vJtjPJ1Hv/view?usp=drivesdk">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 </p>
@@ -211,6 +207,6 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
     alt="example" />
 </p>
 
-Credit: [Mohammed Alhomaidi](https://github.com/MdhGmal1998)
+Credit: [Mohammed Abdo](https://github.com/MohammedAbdo1)
 
 Last Edited on: 08/08/2022
