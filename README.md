@@ -31,7 +31,6 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
 
  ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
   
-[![Mohammed's Graph](https://activity-graph.herokuapp.com/graph?username=MhdGmal1998&area=true&hide_border=true&theme=dracula)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
@@ -42,8 +41,6 @@ Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavang
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/mhdgmal1998">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
 <a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1jlGbVAyvOyU4WRr9N_RSYt6vJtjPJ1Hv/view?usp=drivesdk">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
