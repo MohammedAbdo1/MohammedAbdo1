@@ -6,7 +6,7 @@
 Mohammed </a> <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 
-<h3 align="center">I'm passionate Full Stack web developer having an experience of web applications with Laravel,javascript,jQuery &#127470;&#127475</h3>
+<h3 align="center">I'm passionate Full Stack web developer having an experience of web applications with Laravel,javascript,jQuery </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
